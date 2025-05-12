@@ -1,0 +1,31 @@
+Date,Description,Category,Amount,Type,Company
+01/23/2023,Netflix transaction,Entertainment,173.85,debit,Netflix
+05/13/2023,Payment to Starbucks,Food & Dining,17.85,debit,Starbucks
+05/17/2023,Kaiser transaction,Healthcare,118.18,debit,Kaiser
+06/18/2023,Payment to Netflix,Deposit & Addition,3868.58,credit,Netflix
+10/29/2023,Payment to Subway,Food & Dining,18.23,debit,Subway
+12-06-2023,Aetna transaction,Healthcare,140.89,debit,Aetna
+03-04-2023,Aetna transaction,Healthcare,74.54,debit,Aetna
+11-12-2023,Online payment to Starbucks,Food & Dining,140.35,debit,Starbucks
+03/27/2023,Walmart transaction,Shopping & Retail,125.95,debit,Walmart
+05/26/2023,Lyft transaction,Transport,38.7,debit,Lyft
+06-06-2023,Purchase at BP,Transport,134.82,debit,BP
+03/26/2023,Spectrum transaction,Bills & Utilities,297.09,debit,Spectrum
+01-08-2023,Online payment to Lyft,Transport,68.15,debit,Lyft
+06-10-2023,Payment to Apple,Deposit & Addition,1861.52,credit,Apple
+08-09-2023,Payment to Netflix,Deposit & Addition,1114.41,credit,Netflix
+07/18/2023,Payment to Amazon,Deposit & Addition,2903.93,credit,Amazon
+11/19/2023,CVS Pharmacy transaction,Healthcare,110.38,debit,CVS Pharmacy
+02-07-2023,Subway transaction,Food & Dining,36.23,debit,Subway
+10/31/2023,Charge from Target,Shopping & Retail,373.65,debit,Target
+08-04-2023,Payment to Walgreens,Healthcare,122.2,debit,Walgreens
+03/27/2023,Charge from CVS Pharmacy,Healthcare,107.69,debit,CVS Pharmacy
+04-12-2023,Payment to Olive Garden,Food & Dining,133.4,debit,Olive Garden
+03-07-2023,UnitedHealth transaction,Healthcare,73.17,debit,UnitedHealth
+09-08-2023,Payment to BP,Transport,137.28,debit,BP
+04/24/2023,Payment to Subway,Food & Dining,102.3,debit,Subway
+07/31/2023,Charge from Amazon,Shopping & Retail,176.16,debit,Amazon
+02-12-2023,Online payment to AMC Theaters,Entertainment,14.9,debit,AMC Theaters
+12/21/2023,Online payment to Comcast,Bills & Utilities,169.39,debit,Comcast
+03/14/2023,Purchase at Olive Garden,Food & Dining,185.15,debit,Olive Garden
+09-03-2023,Charge from AT&T,Bills & Utilities,164.7,debit,AT&T
